@@ -8,7 +8,7 @@ const phrases = [
     "Você nunca fará nada neste mundo sem coragem. É a melhor qualidade da mente ao lado da honra.-Aristoteles",
     "Quem comete uma injustiça é sempre mais infeliz que o injustiçado.-Platão",
     "Nunca existiu uma grande inteligência sem uma veia de loucura.-Aristoteles",
-    "ente mover o mundo – o primeiro passo será mover a si mesmo.-Platão",
+    "tente mover o mundo – o primeiro passo será mover a si mesmo.-Platão",
     "O ignorante afirma, o sábio duvida, o sensato reflete.-Aristoteles",
     "Uma vida não questionada não merece ser vivida.-Platão",
     "Ter muitos amigos é não ter nenhum.-Aristoteles",
